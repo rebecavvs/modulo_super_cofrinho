@@ -1,10 +1,16 @@
-# 🐷 Módulo Super Cofrinho – Simulador de Investimento
+
+
+ Integrantes do grupo:
+ Rebeca Vitória Salazar da Silva- Matrícula: 2324290048
+
+ 
+  Módulo Super Cofrinho – Simulador de Investimento
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico, utilizando a linguagem **Python**, para simular investimentos na "Caixinha Super Cofrinho" de uma instituição financeira fictícia.
 
----
 
-## 📚 Descrição do Projeto
+
+ Descrição do Projeto
 
 O programa calcula automaticamente o valor final de um investimento com base em:
 
@@ -20,11 +26,7 @@ No final, o programa mostra ao cliente:
 - O rendimento líquido
 - Os valores descontados de IOF e IR
 
----
-
-## ▶️ Como Executar
-
-1. Certifique-se de ter o Python instalado (versão 3.x)
+Python instalado (versão 3.x)
 2. Clone este repositório ou baixe o arquivo `super_cofrinho.py`
 3. No terminal, execute:
 
